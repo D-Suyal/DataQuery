@@ -1,4 +1,4 @@
-# Dumroo.ai – Data Query App
+# Data Query App
 
 A Streamlit-based application for role-based CSV data analysis powered by OpenAI's GPT-4o via LangChain. Upload your CSV file, select your admin role, and chat with the AI to query your data — all with fine-grained access control based on your role.
 
@@ -31,15 +31,15 @@ A Streamlit-based application for role-based CSV data analysis powered by OpenAI
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/D-Suyal/Dumroo-DataQuery.git
-cd Dumroo-DataQuery
+git clone https://github.com/D-Suyal/DataQuery.git
+cd DataQuery
 ```
 
 ### 2. Create and Activate a Virtual Environment (Recommended)
 
 ```bash
 python3 -m venv dumroo
-source dumroo/bin/activate  # On Windows: dumroo\Scripts\activate
+source suyal/bin/activate  # On Windows: suyal\Scripts\activate
 ```
 
 ### 3. Install Requirements
