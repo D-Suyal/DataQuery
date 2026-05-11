@@ -1,6 +1,6 @@
 # Data Query App
 
-A Streamlit-based application for role-based CSV data analysis powered by OpenAI's GPT-4o via LangChain. Upload your CSV file, select your admin role, and chat with the AI to query your data — all with fine-grained access control based on your role.
+A Streamlit-based application for role based CSV data analysis powered by OpenAI's GPT-4o via LangChain. Upload your CSV file, select your admin role, and chat with the AI to query your data — all with fine-grained access control based on your role.
 
 ---
 
